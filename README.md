@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi There! ![](https://komarev.com/ghpvc/?username=DaaniDev)
+
+I have 4 years of experience in android app development.
+I have worked on different kinds of applications.
+I recieved scholarship from facebook for deep learning nano degree.
+I am one of those developers who won Google Jetpack compose challenge and recieved trophy from google.
+I wrote articles on medium here is the link of my medium profile: https://daanidev.medium.com/
+I always looking forward to learn and try new things in android.
+
+
 
 <!--
 **DaaniDev/DaaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
