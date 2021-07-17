@@ -1,4 +1,6 @@
-Hi There! ![](https://komarev.com/ghpvc/?username=DaaniDev)
+Hi There! 
+
+![](https://komarev.com/ghpvc/?username=DaaniDev)
 
 I have 4 years of experience in android app development.
 I have worked on different kinds of applications.
@@ -7,8 +9,9 @@ I am one of those developers who won Google Jetpack compose challenge and reciev
 I wrote articles on medium here is the link of my medium profile: https://daanidev.medium.com/
 I always looking forward to learn and try new things in android.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaaniDev)](https://github.com/DaaniDev/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaaniDev&layout=compact)](https://github.com/DaaniDev/github-readme-stats)
 <!--
 **DaaniDev/DaaniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
