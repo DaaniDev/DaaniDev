@@ -2,7 +2,7 @@ Hi There!
 
 ![](https://komarev.com/ghpvc/?username=DaaniDev)
 
-I have 5 years of experience in android app development.
+I have 6 years of experience in android app development.
 I have worked on different kinds of applications.
 I recieved scholarship from facebook for deep learning nano degree.
 I am one of those developers who won Google Jetpack compose challenge and recieved trophy from google.
